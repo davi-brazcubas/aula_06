@@ -1,3 +1,4 @@
+package br.com.brazcubas.biblioteca;
 public class Professor extends Usuario {
   private String departamento;
 

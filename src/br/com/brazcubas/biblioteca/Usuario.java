@@ -1,3 +1,4 @@
+package br.com.brazcubas.biblioteca;
 public class Usuario {
   private String id;
   private String nome;
